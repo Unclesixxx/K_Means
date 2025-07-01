@@ -6,7 +6,7 @@ laporan_md = """
 
 **Nama:** Qomar Tokan  
 **NIM:** 23260008  
-**Mata Kuliah:** Data Mining  
+**Mata Kuliah:** Machine Learning
 **Algoritma:** K-Means Clustering  
 
 ---
